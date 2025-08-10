@@ -1,4 +1,5 @@
 npm install
+
 node index.js
 
 it will execute the code
